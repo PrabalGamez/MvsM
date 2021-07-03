@@ -1,0 +1,39 @@
+body{
+   background-color: #45007A; 
+}
+#Head{
+    color: #8E00FB;
+    background-color: #21003B;
+    text-align: center;
+    line-height: 100px;
+    width: 100%;
+    top: 0px;
+    position: fixed;
+}
+.left{
+    color: #8E00FB;
+    left: 0px;
+    position: fixed;
+    background-color: #21003B;
+    width: 49.5%;
+}
+.right{
+    color: #8E00FB;
+    right: 0px;
+    position: fixed;
+    background-color: #21003B;
+    width: 49.5%;
+}
+div img{
+  width: 30%;
+  background-color: #8E00FB;
+  border: 5px #45007A solid;
+  border-radius: 50px;
+}
+#Answer{
+    color: #8E00FB;
+    background-color: #21003B;
+    text-align: center;
+    line-height: 100px;
+    width: 100%;
+}
